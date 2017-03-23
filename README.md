@@ -61,5 +61,5 @@ Do you need Search functionality in your project? See how the example works with
 [example]: #example
 [lib]: #library
 [use]: #use-in-your-own-project
-[animation]: http://www.ibm.com/design/language/framework/animation/introduction
+[animation]: http://www.ibm.com/design/language/framework/animation
 [apache]: http://www.apache.org/licenses/LICENSE-2.0
